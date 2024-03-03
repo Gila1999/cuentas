@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'E:/Estudios/DAW/Entornos de desarrollo/Tareas/ED04_Tarea/Main/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Estudios/DAW/Entornos de desarrollo/Tareas/ED04_Tarea/Main/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Main 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Main 1.0-SNAPSHOT API'
+com.mycompany.main
+cuentas
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\src\main\java = 1709467902173
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\allclasses-index.html = 1709470328379
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\allpackages-index.html = 1709470328381
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\element-list = 1709470328330
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\help-doc.html = 1709470328402
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\index-all.html = 1709470328396
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\index.html = 1709470328368
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\javadoc.bat = 1709470245065
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\jquery-ui.overrides.css = 1709470328413
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\member-search-index.js = 1709470328385
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\module-search-index.js = 1709470328382
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\overview-summary.html = 1709470328398
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\overview-tree.html = 1709470328365
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\package-search-index.js = 1709470328383
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\script.js = 1709470328405
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\search.js = 1709470328407
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\stylesheet.css = 1709470328404
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\tag-search-index.js = 1709470328385
+E:\Estudios\DAW\Entornos de desarrollo\Tareas\ED04_Tarea\Main\target\site\apidocs\type-search-index.js = 1709470328384
